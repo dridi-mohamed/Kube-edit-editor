@@ -1,0 +1,2 @@
+KUBE_EDITOR='Visual Studio Code' kubectl edit pod/web
+
